@@ -18,6 +18,12 @@
     "longitude" : -43.9266
   },
   {
+    "key" : "AAX",
+    "name" : "Araxa MG",
+    "latitude" : -19.5978,
+    "longitude" : -46.9314
+  },
+  {
     "key" : "RR",
     "name" : "Roraima",
     "latitude" : 2.82384,
@@ -48,14 +54,26 @@
     "longitude" : -49.2646
   },
   {
+    "key" : "LND",
+    "name" : "Londrina PR",
+    "latitude" : -23.2993,
+    "longitude" : -51.2186
+  },
+  {
     "key" : "SC",
-    "name" : "Santa Catarina",
+    "name" : "Joinville SC",
     "latitude" : -27.5945,
     "longitude" : -48.5477
   },
   {
-    "key" : "CE",
-    "name" : "Ceará",
+    "key" : "FLN",
+    "name" : "Florianopolis SC",
+    "latitude" : -27.5966,
+    "longitude" : -48.5471
+  },
+  {
+    "key" : "FOR",
+    "name" : "Fortaleza CE",
     "latitude" : -3.71664,
     "longitude" : -38.5423
   },
@@ -114,8 +132,8 @@
     "longitude" : -63.8999
   },
   {
-    "key" : "PE",
-    "name" : "Pernambuco",
+    "key" : "REC",
+    "name" : "Recife PE",
     "latitude" : -8.04666,
     "longitude" : -34.8771
   },
@@ -163,7 +181,7 @@
   },
   {
     "key" : "VIX",
-    "name" : "Espírito Santo",
+    "name" : "Viana ES",
     "latitude" : -20.3155,
     "longitude" : -40.3128
   },
@@ -184,6 +202,12 @@
     "name" : "Canoas RS",
     "latitude" : -29.9243,
     "longitude" : -51.1469
+  },
+  {
+    "key" : "GMD",
+    "name" : "Gramado RS",
+    "latitude" : -29.3771,
+    "longitude" : -50.8700
   },
   {
     "key" : "NSR",
