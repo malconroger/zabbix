@@ -13,15 +13,15 @@
   },
   {
     "key" : "MG",
-    "name" : "Minas Gerais",
-    "latitude" : -19.9102,
-    "longitude" : -43.9266
+    "name" : "Contagem MG",
+    "latitude" : -19.9596,
+    "longitude" : -44.0205
   },
   {
     "key" : "AAX",
     "name" : "Araxa MG",
-    "latitude" : -19.5978,
-    "longitude" : -46.9314
+    "latitude" : -19.6207,
+    "longitude" : -46.9352
   },
   {
     "key" : "RR",
@@ -60,16 +60,16 @@
     "longitude" : -51.2186
   },
   {
-    "key" : "SC",
-    "name" : "Joinville SC",
-    "latitude" : -27.5945,
-    "longitude" : -48.5477
+    "key" : "FLN",
+    "name" : "Palhoca SC",
+    "latitude" : -27.6598,
+    "longitude" : -48.6872
   },
   {
-    "key" : "FLN",
-    "name" : "Florianopolis SC",
-    "latitude" : -27.5966,
-    "longitude" : -48.5471
+    "key" : "SC",
+    "name" : "Araquari SC",
+    "latitude" : -26.5458,
+    "longitude" : -48.7131
   },
   {
     "key" : "FOR",
@@ -98,8 +98,8 @@
   {
     "key" : "MCZ",
     "name" : "Maceio AL",
-    "latitude" : -9.66599,
-    "longitude" : -35.735
+    "latitude" : -9.5654,
+    "longitude" : -35.7655
   },
   {
     "key" : "AM",
@@ -126,6 +126,18 @@
     "longitude" : -51.2065
   },
   {
+    "key" : "PNB",
+    "name" : "Panambi RS",
+    "latitude" : -28.2901,
+    "longitude" : -53.4974
+  },
+  {
+    "key" : "RIG",
+    "name" : "Rio Grande RS",
+    "latitude" : -31.9837,
+    "longitude" : -52.1120
+  },
+  {
     "key" : "RO",
     "name" : "Rondônia",
     "latitude" : -8.76077,
@@ -133,9 +145,9 @@
   },
   {
     "key" : "REC",
-    "name" : "Recife PE",
-    "latitude" : -8.04666,
-    "longitude" : -34.8771
+    "name" : "Cabo de Santo Agostinho PE",
+    "latitude" : -8.2597,
+    "longitude" : -35.0170
   },
   {
     "key" : "AC",
@@ -146,20 +158,20 @@
   {
     "key" : "RJ",
     "name" : "Rio de Janeiro",
-    "latitude" : -22.9129,
-    "longitude" : -43.2003
+    "latitude" : -22.7718,
+    "longitude" : -43.4025
   },
     {
     "key" : "AJU",
     "name" : "Aracaju SE",
-    "latitude" : -10.9469,
-    "longitude" : -37.0674
+    "latitude" : -10.9296,
+    "longitude" : -37.1103
   },
   {
     "key" : "SSA",
-    "name" : "Bahia",
-    "latitude" : -12.9718,
-    "longitude" : -38.5011
+    "name" : "Simoes Filho BA",
+    "latitude" : -12.8247,
+    "longitude" : -38.4032
   },
   {
     "key" : "MA",
@@ -170,8 +182,8 @@
   {
     "key" : "SP",
     "name" : "São Paulo",
-    "latitude" : -23.5329,
-    "longitude" : -46.6395
+    "latitude" : -23.4329,
+    "longitude" : -46.4482
   },
   {
     "key" : "PI",
@@ -182,32 +194,32 @@
   {
     "key" : "VIX",
     "name" : "Viana ES",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "latitude" : -20.3618,
+    "longitude" : -40.4397
   },
   {
     "key" : "CAMPINAS",
     "name" : "Campinas SP",
-    "latitude" : -22.0865,
-    "longitude" : -48.7166
+    "latitude" : -22.9810,
+    "longitude" : -47.1040
   },
   {
     "key" : "CAXIAS",
     "name" : "Caxias RS",
-    "latitude" : -29.1441,
-    "longitude" : -51.1744
+    "latitude" : -29.1480,
+    "longitude" : -51.1835
   },
   {
     "key" : "CANOAS",
     "name" : "Canoas RS",
     "latitude" : -29.9243,
-    "longitude" : -51.1469
+    "longitude" : -51.1448
   },
   {
     "key" : "GMD",
     "name" : "Gramado RS",
-    "latitude" : -29.3771,
-    "longitude" : -50.8700
+    "latitude" : -30.0011,
+    "longitude" : -51.2005
   },
   {
     "key" : "NSR",
@@ -218,7 +230,7 @@
   {
     "key" : "CURITIBA",
     "name" : "Curitiba PR",
-    "latitude" : -25.4371,
-    "longitude" : -49.2708
+    "latitude" : -25.5463,
+    "longitude" : -49.3008
   }
 ]
