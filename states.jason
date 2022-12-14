@@ -131,12 +131,7 @@
     "latitude" : -28.2901,
     "longitude" : -53.4974
   },
-  {
-    "key" : "RIG",
-    "name" : "Rio Grande RS",
-    "latitude" : -31.9837,
-    "longitude" : -52.1120
-  },
+
   {
     "key" : "RO",
     "name" : "Rondônia",
@@ -208,12 +203,6 @@
     "name" : "Canoas RS",
     "latitude" : -29.9243,
     "longitude" : -51.1448
-  },
-  {
-    "key" : "GMD",
-    "name" : "Gramado RS",
-    "latitude" : -30.0011,
-    "longitude" : -51.2005
   },
   {
     "key" : "NSR",
