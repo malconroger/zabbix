@@ -1,11 +1,5 @@
  [
   {
-    "key" : "SE",
-    "name" : "Sergipe",
-    "latitude" : -10.9091,
-    "longitude" : -37.0677
-  },
-  {
     "key" : "PA",
     "name" : "Pará",
     "latitude" : -1.4554,
