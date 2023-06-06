@@ -1,0 +1,761 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4898,
+          -1.4554
+        ]
+      },
+      "properties": {
+        "key": "PA",
+        "name": "Pará"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.0205,
+          -19.9596
+        ]
+      },
+      "properties": {
+        "key": "MG",
+        "name": "Contagem MG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6753,
+          2.82384
+        ]
+      },
+      "properties": {
+        "key": "RR",
+        "name": "Roraima"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.9297,
+          -15.7795
+        ]
+      },
+      "properties": {
+        "key": "DF",
+        "name": "Distrito Federal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.6295,
+          -20.4486
+        ]
+      },
+      "properties": {
+        "key": "MS",
+        "name": "Mato Grosso do Sul"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.0974,
+          -15.601
+        ]
+      },
+      "properties": {
+        "key": "MT",
+        "name": "Mato Grosso"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2646,
+          -25.4195
+        ]
+      },
+      "properties": {
+        "key": "PR",
+        "name": "Paraná"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.2186,
+          -23.2993
+        ]
+      },
+      "properties": {
+        "key": "LND",
+        "name": "Londrina PR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6872,
+          -27.6598
+        ]
+      },
+      "properties": {
+        "key": "FLN",
+        "name": "Palhoca SC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.7131,
+          -26.5458
+        ]
+      },
+      "properties": {
+        "key": "SC",
+        "name": "Araquari SC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5423,
+          -3.71664
+        ]
+      },
+      "properties": {
+        "key": "FOR",
+        "name": "Fortaleza CE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2643,
+          -16.6864
+        ]
+      },
+      "properties": {
+        "key": "GO",
+        "name": "Goiás"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.8641,
+          -7.11509
+        ]
+      },
+      "properties": {
+        "key": "PB",
+        "name": "Paraíba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.0694,
+          0.034934
+        ]
+      },
+      "properties": {
+        "key": "AP",
+        "name": "Amapá"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.7655,
+          -9.5654
+        ]
+      },
+      "properties": {
+        "key": "MCZ",
+        "name": "Maceio AL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.0212,
+          -3.11866
+        ]
+      },
+      "properties": {
+        "key": "AM",
+        "name": "Amazonas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1986,
+          -5.79357
+        ]
+      },
+      "properties": {
+        "key": "RN",
+        "name": "Rio Grande do Norte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3558,
+          -10.24
+        ]
+      },
+      "properties": {
+        "key": "TO",
+        "name": "Tocantins"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.2065,
+          -30.0318
+        ]
+      },
+      "properties": {
+        "key": "RS",
+        "name": "Rio Grande do Sul"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.4974,
+          -28.2901
+        ]
+      },
+      "properties": {
+        "key": "PNB",
+        "name": "Panambi RS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8999,
+          -8.76077
+        ]
+      },
+      "properties": {
+        "key": "RO",
+        "name": "Rondônia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.017,
+          -8.2597
+        ]
+      },
+      "properties": {
+        "key": "REC",
+        "name": "Cabo de Santo Agostinho PE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.8243,
+          -9.97499
+        ]
+      },
+      "properties": {
+        "key": "AC",
+        "name": "Acre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.4025,
+          -22.7718
+        ]
+      },
+      "properties": {
+        "key": "RJ",
+        "name": "Rio de Janeiro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.1103,
+          -10.9296
+        ]
+      },
+      "properties": {
+        "key": "AJU",
+        "name": "Aracaju SE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4032,
+          -12.8247
+        ]
+      },
+      "properties": {
+        "key": "SSA",
+        "name": "Simoes Filho BA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.2825,
+          -2.53874
+        ]
+      },
+      "properties": {
+        "key": "MA",
+        "name": "Maranhão"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4482,
+          -23.4329
+        ]
+      },
+      "properties": {
+        "key": "SP",
+        "name": "São Paulo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.8034,
+          -5.09194
+        ]
+      },
+      "properties": {
+        "key": "PI",
+        "name": "Piauí"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.4397,
+          -20.3618
+        ]
+      },
+      "properties": {
+        "key": "VIX",
+        "name": "Viana ES"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.104,
+          -22.981
+        ]
+      },
+      "properties": {
+        "key": "CAMPINAS",
+        "name": "Campinas SP"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1448,
+          -29.9243
+        ]
+      },
+      "properties": {
+        "key": "CANOAS",
+        "name": "Canoas RS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.2839,
+          -23.3103
+        ]
+      },
+      "properties": {
+        "key": "MARINGA",
+        "name": "Maringa PR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9114,
+          -19.9275
+        ]
+      },
+      "properties": {
+        "key": "ITAGUAI",
+        "name": "Itaguai RJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6333,
+          -23.5515
+        ]
+      },
+      "properties": {
+        "key": "GUARULHOS",
+        "name": "Guarulhos SP"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.6351,
+          -20.2996
+        ]
+      },
+      "properties": {
+        "key": "SERRA",
+        "name": "Serra ES"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3607,
+          -22.764
+        ]
+      },
+      "properties": {
+        "key": "RESENDE",
+        "name": "Resende RJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1925,
+          -19.8836
+        ]
+      },
+      "properties": {
+        "key": "NITEROI",
+        "name": "Niteroi RJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3607,
+          -22.764
+        ]
+      },
+      "properties": {
+        "key": "BARRAMANSA",
+        "name": "Barra Mansa RJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4431,
+          -23.6866
+        ]
+      },
+      "properties": {
+        "key": "ARUJA",
+        "name": "Aruja SP"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5824,
+          -23.1866
+        ]
+      },
+      "properties": {
+        "key": "SANTOS",
+        "name": "Santos SP"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.0655,
+          -22.2855
+        ]
+      },
+      "properties": {
+        "key": "SAOB",
+        "name": "Sao Bernardo do Campo SP"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3589,
+          -22.9313
+        ]
+      },
+      "properties": {
+        "key": "DUQUE",
+        "name": "Duque de Caxias RJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9777,
+          -19.6412
+        ]
+      },
+      "properties": {
+        "key": "CAMPOS",
+        "name": "Campos RJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2672,
+          -25.5275
+        ]
+      },
+      "properties": {
+        "key": "LONDRINA",
+        "name": "Londrina PR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.2776,
+          -21.7624
+        ]
+      },
+      "properties": {
+        "key": "SOROCABA",
+        "name": "Sorocaba SP"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6345,
+          -21.2654
+        ]
+      },
+      "properties": {
+        "key": "PIRACICABA",
+        "name": "Piracicaba SP"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.3014,
+          -2.5292
+        ]
+      },
+      "properties": {
+        "key": "IMPERATRIZ",
+        "name": "Imperatriz MA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1896,
+          -19.9198
+        ]
+      },
+      "properties": {
+        "key": "SGONCALO",
+        "name": "Sao Goncalo RJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.3871,
+          -20.8395
+        ]
+      },
+      "properties": {
+        "key": "SAJC",
+        "name": "Sao Jose dos Campos SP"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.7781,
+          -20.2559
+        ]
+      },
+      "properties": {
+        "key": "BOM",
+        "name": "Bom Jesus RJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.8953,
+          -22.4632
+        ]
+      },
+      "properties": {
+        "key": "REG",
+        "name": "Regencia ES"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6142,
+          -26.8765
+        ]
+      },
+      "properties": {
+        "key": "CIANORTE",
+        "name": "Cianorte PR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7592,
+          -23.5905
+        ]
+      },
+      "properties": {
+        "key": "ITAQUAQUECETUBA",
+        "name": "Itaquaquecetuba SP"
+      }
+    }
+  ]
+}
